@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Machine Learning
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.ckpt.*
+*.pkl
+*.pickle
+saved_model/
+cats_vs_dogs_model/
+cats_vs_dogs_model.h5
+*.tfrecord
+*.tflite
+
+# TensorFlow
+*tfevents*
+logs/
+checkpoints/
+
+# Data
+data/
+datasets/
+*.csv
+*.zip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
