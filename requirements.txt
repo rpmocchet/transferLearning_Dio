@@ -1,10 +1,10 @@
 # Core Dependencies for Transfer Learning Project
-tensorflow>=2.10.0
-tensorflow-datasets>=4.8.0
-matplotlib>=3.5.0
-numpy>=1.22.0
+tensorflow>=2.13.0
+tensorflow-datasets>=4.9.0
+matplotlib>=3.7.0
+numpy>=1.23.0
 jupyter>=1.0.0
 
 # Optional but recommended
-pillow>=9.0.0
-scipy>=1.8.0
+pillow>=10.0.0
+scipy>=1.10.0
